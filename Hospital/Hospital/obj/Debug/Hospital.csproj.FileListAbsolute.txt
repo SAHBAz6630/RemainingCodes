@@ -1,0 +1,7 @@
+D:\wiproprac\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\wiproprac\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\wiproprac\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\wiproprac\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\wiproprac\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\wiproprac\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\wiproprac\Hospital\Hospital\obj\Debug\Hospital.pdb

@@ -1,0 +1,7 @@
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\bin\Debug\ConsoleApp7bitWise.exe.config
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\bin\Debug\ConsoleApp7bitWise.exe
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\bin\Debug\ConsoleApp7bitWise.pdb
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\obj\Debug\ConsoleApp7bitWise.csproj.AssemblyReference.cache
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\obj\Debug\ConsoleApp7bitWise.csproj.CoreCompileInputs.cache
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\obj\Debug\ConsoleApp7bitWise.exe
+D:\wiproprac\ConsoleApp7bitWise\ConsoleApp7bitWise\obj\Debug\ConsoleApp7bitWise.pdb

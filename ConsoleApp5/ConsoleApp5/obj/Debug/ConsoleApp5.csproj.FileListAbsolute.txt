@@ -1,0 +1,7 @@
+D:\wiproprac\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\wiproprac\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\wiproprac\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\wiproprac\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\wiproprac\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\wiproprac\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\wiproprac\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
